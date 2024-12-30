@@ -1,7 +1,7 @@
 ### Sample project to support Apache Ignite crash course presentation
 
-The presentation is
-located [at Google Slides here](https://docs.google.com/presentation/d/1VNtYk3kRnYctGb5D3XrtCxRvg2SnGuZolcCPshUrouw/edit?usp=sharing)
+The presentation in PowerPoint and PDF forms is located at the `presentation`
+directory.
 
 The project repo has IntelliJ run/debug configurations. For the e2e demo, run
 all three servers (the #3 deploy services), and then the client.
